@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "669197811941",
+    "firebase_url": "https://example-6acad.firebaseio.com",
+    "project_id": "example-6acad",
+    "storage_bucket": "example-6acad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669197811941:android:e9b2975245c65b47",
+        "android_client_info": {
+          "package_name": "com.example.shrihan.messagingexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669197811941-0ipjcv8lia2gkpqvnh1pi3trv02q36mg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shrihan.messagingexample",
+            "certificate_hash": "EFB0B9B80528C353C1334EAF7F39C40238DAD75F"
+          }
+        },
+        {
+          "client_id": "669197811941-uasfffokq2cntftc898u5drt4ukfqf26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEMGthuLhsLmsJM_l3YFAmNKBCYcszTS4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669197811941-uasfffokq2cntftc898u5drt4ukfqf26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669197811941:android:469a2a57f9be0fcf",
+        "android_client_info": {
+          "package_name": "com.example.shrihan.authenticationexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669197811941-sts0ae3879o8920eg6m16bveukmnq5o3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shrihan.authenticationexample",
+            "certificate_hash": "EFB0B9B80528C353C1334EAF7F39C40238DAD75F"
+          }
+        },
+        {
+          "client_id": "669197811941-uasfffokq2cntftc898u5drt4ukfqf26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEMGthuLhsLmsJM_l3YFAmNKBCYcszTS4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669197811941-uasfffokq2cntftc898u5drt4ukfqf26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
